@@ -1,0 +1,4 @@
+.vscode
+java_api/target
+js_api/node_modules
+rust_api/target
